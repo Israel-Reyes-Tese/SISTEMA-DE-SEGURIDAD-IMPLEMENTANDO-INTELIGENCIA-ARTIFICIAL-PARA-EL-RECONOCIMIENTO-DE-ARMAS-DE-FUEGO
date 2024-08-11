@@ -24,17 +24,17 @@ Desarrollar un sistema de detección de armas de fuego basado en inteligencia ar
 
 ## Screenshots
     Ejemplo del sistema
-![IMAGENES DEL SISTEMA](https://dsm01pap009files.storage.live.com/y4m2bnZ0EdKDh0zlntvY2ZsLL1OL6D5QdJym2N8UJ103-SfxyFQV4GEygPcqq9KpgoamCE6sNV4QFk1F4fo6eC53HePKPsGiSYCBxzVR8R6NXCUBt2cOc0Rl3Q5UJkSVm6-ZBIPPaa63i4t_bvsYoC462nt766QP9vBHRDkeevyc6zwbCXHMI-U99siqVoIXQ7LWvTTJEK0GRChn0uw5F7C4A?encodeFailures=1&width=589&height=321)
-
+![IMAGENES DEL SISTEMA](https://github.com/user-attachments/assets/f23def44-8fa6-49a7-8cf3-cc5f747ce508)
 
 ## REGISTRO DE LAS POSIBLES AMENAZAS
-![IMAGENES DEL SISTEMA](https://dsm01pap009files.storage.live.com/y4mQS9dF1od1dQsDXpS-qtaiZWpG8sJCnkUBdo8wmvqgRgDTGkU3wdap1gHKSeS0WLhll6Jc7qioIIDGvdxcmvrJgA2yP3B9YJ0jvdcCroZGVq-MRFxtKRtaFK38_wNwcd6rKzu3Z4O_UlSa3T83EuSxoaEqpsNinkV7k9cAnLsgR1tB54syhQ2-iEGZJbVI1SHP6BEDvW6mdhfidRPe4if8w?encodeFailures=1&width=589&height=190)
+![IMAGENES DEL SISTEMA](https://github.com/user-attachments/assets/7618322f-1706-4a48-9a3a-10e2a217eca1)
 
 ## DIAGRAMA COMO FUNCIONA
-![IMAGENES DEL SISTEMA](https://dsm01pap009files.storage.live.com/y4mV5ayKojm1lPa_t7ocBHnAomLJpEOly7v36cgfMiLm_bjQcu2WJiZKqnvCfZf1IYUL7F8XIGYpy5KxeCzFKAcsq6bGgOT5qJNY4w2UzXubSkClqMKWMmltkUuU_cnnqlEnWy54CRpCgaCar5B0m5on5wvLrcWcexAkyOfN5kGDZO4TUeqcto5Kn8pgeyjYdXzDNLAs-a8nmP6M6u9IDI2Dg?encodeFailures=1&width=754&height=311)
+![IMAGENES DEL SISTEMA](https://dsm01pap009files.storage.live.com/y4mV5ayKojm1lPa_t7ocBHnAomLJpEOly7v36cgfMiLm_bjQcu2WJiZKqnvCfZf1IYUL7F8XIGYpy5KxeCzFKAcsq6bGgOT5qJNY4w2UzXubSkClqMKWMmltkUuU_cnnqlEnWy54CRpCgaCar5B0m5on5wvLrcWcexAkyOfN5kGDZO4TUeqcto5Kn8pgeyjYdXzDNLAs-a8nmP6M6u9IDI2Dg?encodeFailures=1&width=754&height=311](https://github.com/user-attachments/assets/d4cc51f3-62bd-46d9-a51d-6d616c4c4c2a))
+
 
 ## ENTRENAMIENTO DE COMO FUNCIONA
 
-![IMAGENES DEL SISTEMA](https://bq0yvq.dm.files.1drv.com/y4mucscOG9wbzELES1_mVCKHMFG2n90pHZLKh7lIECZ7FvNNfX2Rs0sfWORqck1xixChv7SKGWCdT0BZoVuIhObyLgieH_klrJn3NNKlIYzo0UvUSvNE9wA_zpLB5FxgSfNrUQQTE5l3TVfEUb5WFoXwwip2OWCWOh6UAkFxePfcLJjAr8Ici4svQToudqI4kPzA4Ut34_qSyYp2-ZmtVtLZBLfkdcPxeOQBawB1BY72wA)
+![IMAGENES DEL SISTEMA](https://github.com/user-attachments/assets/a14ca241-cbf1-4ddd-ae55-8872758b966d)
 
 
