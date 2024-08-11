@@ -30,7 +30,7 @@ Desarrollar un sistema de detección de armas de fuego basado en inteligencia ar
 ![IMAGENES DEL SISTEMA](https://github.com/user-attachments/assets/7618322f-1706-4a48-9a3a-10e2a217eca1)
 
 ## DIAGRAMA COMO FUNCIONA
-![IMAGENES DEL SISTEMA](https://dsm01pap009files.storage.live.com/y4mV5ayKojm1lPa_t7ocBHnAomLJpEOly7v36cgfMiLm_bjQcu2WJiZKqnvCfZf1IYUL7F8XIGYpy5KxeCzFKAcsq6bGgOT5qJNY4w2UzXubSkClqMKWMmltkUuU_cnnqlEnWy54CRpCgaCar5B0m5on5wvLrcWcexAkyOfN5kGDZO4TUeqcto5Kn8pgeyjYdXzDNLAs-a8nmP6M6u9IDI2Dg?encodeFailures=1&width=754&height=311](https://github.com/user-attachments/assets/d4cc51f3-62bd-46d9-a51d-6d616c4c4c2a))
+![IMAGENES DEL SISTEMA](https://github.com/user-attachments/assets/d4cc51f3-62bd-46d9-a51d-6d616c4c4c2a)
 
 
 ## ENTRENAMIENTO DE COMO FUNCIONA
