@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título de tu página</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: black;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        #video-container {
+            position: relative;
+            width: 100%;
+            max-width: 800px;
+        }
+
+        video {
+            width: 100%;
+            height: auto;
+            display: block;
+            border: 5px solid #fff; /* Borde blanco */
+            border-radius: 10px; /* Bordes redondeados */
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.5); /* Sombra con transparencia */
+        }
+
+        .decoracion-adicional {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <div id="video-container">
+
+        {% block content %}
+        {% endblock %}
+        <div class="decoracion-adicional">
+        </div>
+    </div>
+</body>
+</html>
